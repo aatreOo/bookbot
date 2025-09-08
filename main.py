@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import sys
 print(sys.argv)
 from stats import get_char_counts, sort_char_counts
